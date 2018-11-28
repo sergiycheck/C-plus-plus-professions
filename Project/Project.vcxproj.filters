@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+    <Text Include="Resource\Agriculture and Water Management.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Aviation and space.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\beauty and health.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Culture, art, design.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Education and Pedagogy.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Finance, accounting, bank.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Fitness and Sports.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\HR ,human resources services.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Humanitarian sciences.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Insurance.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\IT, computers and the Internet.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Marketing, Advertising and PR.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Mass-media, publishing house, polygraphy.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Medicine, pharmaceutics.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Natural sciences and research.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Real estate, construction, architecture.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Restaurants, catering.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Secretariat, clerical work, ACO.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Security, Security, Police.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Service sector.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Show Business.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Technology, technology, production.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Telecommunications.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\TLaw, Politics.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Tourism, Hospitality.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Trade, logistics, foreign trade activities.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="Resource\Transport, auto business.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Profession.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MyHeader.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractInfoProf.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="ProfInfo.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Project.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Profession.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractInfoProf.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="ProfInfo.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

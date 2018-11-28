@@ -1,0 +1,25 @@
+Bioengineer
+Vet
+The doctor of first aid
+The dermatovenerologist
+Nutritionist
+Dental Technician
+Immunologist
+Infectionist
+Cardiologist
+Cardiac Surgeon
+Speech therapist
+Masseur
+Master of spectacles
+Medical representative
+Younger Nurse
+Neurologist
+Neurosurgeon
+Optometrist
+Ophthalmologist
+Pharmacist
+Psychologist
+Psychotherapist
+Clinical Research Specialist
+Dentist
+Surgeon

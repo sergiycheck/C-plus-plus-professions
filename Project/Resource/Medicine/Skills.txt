@@ -1,0 +1,3 @@
+presence of a valid certificate in specialty;
+Availability of the corresponding category in specialty.
+work experience in specialization not less than 3 years.

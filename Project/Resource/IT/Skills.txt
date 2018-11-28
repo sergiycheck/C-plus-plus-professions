@@ -1,0 +1,33 @@
+Skills of use of programming languages (C#, .NET)
+— ASP.NET MVC framework;
+— Microsoft Azure:
+— MS SQL Server;
+— Entity Framework;
+— HTML/CSS/JS;
+— Intermediate level of written/spoken English.
+[Backend] — ASP.NET MVC, ASP.NET Web API, ASP.NET Core, Win Services, Node.js
+[Frontend] — HTML, CSS, JavaScript, Angular1-4, ReactJS, Bootstrap
+[Cloud] — Azure, AWS, Google Cloud
+[Mobility] — Xamarin, ReactNative, Ionic, PhoneGap
+— JavaScript/CSS/HTML
+— Restful API
+— OOP
+— Strong knowledge of HTML5, CSS3, JavaScript, jQuery, RESTful API
+— Experience of Wordpress
+— Responsive design and cross-browser compatibility
+— Knowledge of GIT
+• React / React Native;
+• GraphQL API only;
+• TypeScript;
+• Cross-Platform ideas to share code & skills between platforms (WEB, iOS & Android).
+• At least 1+ year React / React Native experience.
+• Basic knowledge of ES6+, Node.js, React and React Native ecosystem.
+• CSS-in-JS basics.
+• Experience with React / React Native UI libraries.
+• Chrome Dev Tools ninja.
+• Minimal sense of visual aesthetics.
+• Configure & build mobile app via XCode and Android Studio.
+• Any of GraphQL, TypeScript, Redux, Jest, Git, native mobile or WEB development is an additional strength.
+• Exceptional communication skills.
+• High level of self-organization, ownership, responsibility.
+• Minimum B2 English level (company gives 200$/month for studying English on Preply.com).

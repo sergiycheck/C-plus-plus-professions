@@ -1,0 +1,44 @@
+Senior BI Software Engineer
+Build reporting solutions to meet business needs including experimental design and consulting with other external/technology partners. Provide technical advice to various levels of management and act as team lead in coordinating technical support for the new Number Portability solutions and existing deployments. Develop and review feature design documents and provide inputs/update to specifications for product. Implement and test modification requests. Handle complex problems that may arise during solution implementation and field support providing creative and rapid solutions.
+
+Candidate will work as part of the global team of firmware, digital hardware and RF hardware engineers to develop cutting edge router and gateway security products and technologies. The candidate must possess knowledge of embedded Linux processes and an understanding of network communications.
+Design architecture of the project 
+Develop, support and optimize high-performance code and write tests.
+Develop server-less/micro-services applications.
+Deploy code, promote builds across environments;
+Estimate effort to build;
+Automate workflow, configuration and environments;
+Work with team members and other engineering teams;
+- To understand a large, complex, loaded monolithic project. Split it into separate services, implement them, set up interaction
+- Support parts of the project before and after refactoring
+- Find the optimal ways to implement product requirements and execute them promptly
+
+Responsibilities in the team
+- Write a good, trusted and supported code
+- Conduct and pass the code of the revision
+- Participate in architectural decisions
+- Participate in the planning and distribution of tasks
+- Teach others and train yourself
+
+Senior Software Engineer
+
+•	Able to work independently 
+•	Communicate with customer, gather technical requirements
+•	Implement software development solution and modules, contribute to design
+•	Deliver high quality code
+•	Working in CMS environment
+Senior Full Stack .NET Developer
+ 
+At least 5 years of experience in C# and .NET
+•	Good knowledge the following technologies: ASP.NET Web API, Javascript, Angular, React, HTML/CSS, SQL
+•	Ideally, someone mastering our tech stack: Microsoft Azure (Paas and IaaS), Service Bus, Redis, NoSQL... Knowledge of Git and VSTS is an asset
+•	Experienced in pair programing, unit test and craft software
+•	Deep knowledge of Agile: Scrum, Kanban and XP depending
+•	A good level in English and the capacity to evolve in a geographically distributed team
+•	Someone who likes challenges, entrepreneurship and startup spirit
+•	Someone passionate and curious. Someone who enjoys team work and sharing his knowledge with his peers
+•	A Software Craftsman: you pair program, unit test and craft software you are proud of. You have a set of skills and tools, and know when to use them
+Ñ# developer
+development of new Cloud applications;
+enhancing and support of existing WinForms desktop solutions;
+participate in roll out of Web and Mobile applications.
